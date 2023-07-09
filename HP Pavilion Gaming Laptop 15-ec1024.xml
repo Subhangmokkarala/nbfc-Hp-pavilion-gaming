@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <FanControlConfigV2 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NotebookModel>HP Pavilion Gaming Laptop 15-ec1064</NotebookModel>
-  <Author>Quarterblad</Author>
+  <Author>Fitzingout</Author>
   <EcPollInterval>1000</EcPollInterval>
   <ReadWriteWords>false</ReadWriteWords>
   <CriticalTemperature>90</CriticalTemperature>
